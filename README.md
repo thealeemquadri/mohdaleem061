@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Mohammed Aleem
-- 👀 I’m interested in CS,writing blogs and exploring different technologies
-- 🌱 I’m currently learning java+dsa 
+- 👋 Hi, I’m Mohd Abdul Aleem.
+- 👀 I’m interested in CS, writing blogs and exploring different technologies.
+- 🌱 I’m currently learning JAVA & DSA. 
 - 💞️ I’m looking to collaborate on price comparision website
 - 📫 How to reach me 
 - Twitter : https://twitter.com/aleem__11__
