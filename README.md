@@ -2,6 +2,7 @@
 - 👀 I’m interested in CS, writing blogs and exploring different technologies.
 - 🌱 I’m currently learning JAVA & DSA. 
 - 💞️ I’m looking to collaborate on price comparision website
+- Lorem ipsum
 - 📫 How to reach me 
 - Twitter : https://twitter.com/thealeemquadri
 - LinkedIn : https://www.linkedin.com/in/thealeemquadri
